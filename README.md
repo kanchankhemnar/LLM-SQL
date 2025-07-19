@@ -1,9 +1,9 @@
-# 🧠 LLM-SQL V1 – Natural Language to SQL Assistant
+# 🧠 LLM-SQL V2 – Natural Language to SQL Assistant
 
 LLM-SQL is a smart assistant that converts **natural language questions** into **SQL queries** and executes them on a real database.  
 Built with **Streamlit**, **Gemini 2.5 Flash**, and **SQLite**, it's designed to help **non-technical users** generate insights from data without writing SQL.
 
-🔗 **Live App:** [llm-sql-v1.streamlit.app](https://llm-sql-v1.streamlit.app)
+🔗 **Live App:** [llm-sql-v2.streamlit.app](https://llm-sql-v2.streamlit.app)
 
 ---
 
